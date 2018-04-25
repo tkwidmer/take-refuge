@@ -5,121 +5,46 @@ hideJumbotron: true
 ---
 
 <div class="row">
-  <div class="col-sm-6 col-md-4">
-    <div class="hidden-sm-up">
-      <h3 class="text-center"> San Francisco Bootblack 2018 Victoria! </h3>
-    </div>
-    <img class="img-fluid" src="{{site.data.2018.contestants.victoria.photo}}"/>
+  <div class="col-8 offset-xs-2 offset-sm-0 col-sm-5 ">
+    <img class="img-fluid" src="/images/winners.jpg" />
+    <div class="vspace1"></div>
   </div>
+  <div class="col-sm-7">
+    {% include redesign/navbar.html %}
 
-  <div class="col-sm-6 col-md-8">
-    <div class="hidden-sm-up">
-      <div class="vspace2"> </div>
-    </div>
-    {% assign firstPost = site.posts.first %}
-    <h1 class="post-title">
-      {{ firstPost.title }}
-    </h1>
-
-    {% if firstPost.subtitle %}
-    <h5 class="post-subtitle">
-        {{ firstPost.subtitle }}
-    </h5>
-    {% endif %}
-
-    <small class="post-meta vspace1">
-      Posted by {% if firstPost.author %}{{ firstPost.author }}{% else %}{{ site.title }}{% endif %} on {{ firstPost.date | date: "%B %-d, %Y" }}
-    </small>
-
-    <div class="vspace2">
-      {{ firstPost.content }}
-    </div>
-
-    <!-- <img width=200 class="img-fluid mx-auto d-block vspace1" src="/images/logos/logo_2018_red.png" /> -->
-  </div>
-</div>
-
-<hr />
-<div class='row vspace2'>
-  <div class='col-sm-8'>
-
-    <!-- {% assign firstPost = site.posts.first %}
-    <h1 class="post-title">
-      {{ firstPost.title }}
-    </h1>
-
-    {% if firstPost.subtitle %}
-    <h5 class="post-subtitle">
-        {{ firstPost.subtitle }}
-    </h5>
-    {% endif %}
-
-    <small class="post-meta vspace1">
-      Posted by {% if firstPost.author %}{{ firstPost.author }}{% else %}{{ site.title }}{% endif %} on {{ firstPost.date | date: "%B %-d, %Y" }}
-    </small>
-
-    <div class="vspace2">
-      {{ firstPost.content }}
-    </div>
-
-    <hr class="vspace2" class="fspace2" /> -->
-
-    <!-- <h1> 2018 Bootblack Contestants </h1> -->
-
-    <!-- <div class="row">
-      <div class="col-4">
-        <img class="img-fluid" src="{{site.data.2018.contestants.camryn.photo}}"/>
-      </div>
-      <div class="col-4">
-        <img class="img-fluid" src="{{site.data.2018.contestants.kenzi.photo}}"/>
-      </div>
-      <div class="col-4">
-        <img class="img-fluid" src="{{site.data.2018.contestants.victoria.photo}}"/>
-      </div>
-    </div> -->
-
-    <!-- <img class="img-fluid" src="/images/2018/contestants.jpg"/> -->
-    <!-- <p class="text-center vspace1">
-      <a href="/2018/contestants"> Click Here to Learn More About Our Contestants </a>
+    <h4> International Ms Bootblack 2018 Teagan</h4>
+    <p>
+      <small> #TakeRefuge #DoBootsAndTheRestWillCome </small>
     </p>
 
-    <a href="https://www.cognitoforms.com/SFBayAreaLeatherAlliance1/_2018SFBayAreaLeatherAllianceWeekend">
-      <img class="img-fluid mx-auto d-block vspace2" src="/images/reusable/buytickets.png" />
-    </a> -->
+    <div class="vspace2" />
+    <h5> Bio </h5>
+    <p>
+      Teagan fell in love with bootblacking at a young age, doing her shoes before church.
+      Although these days her skills are being put to more salcious uses,
+      she still identifies as a spiritual Bootblack. For her, bootblacking harkens back to the foot-washing
+      ritual. She is honored to provide a humble service to her community.
+      Teagan is <b>IMsBB 2018 </b>.
+      She is the 20th person to hold the title of International Ms Bootblack.
+      She is also Southwest Bootblack 2017 and Southern California Bootblack 2016.
+      She is based in Oakland, CA. Durring her title year she invited our community
+      to "Take Refuge" in the capable hands of our bootblacks.
+    </p>
 
+    <div class="vspace1" />
 
-    <div class="">
-      {% include redesign/recent_posts.html offset=1 %}
-    </div>
+    <h5> Links </h5>
+    {% include redesign/social_links.html %}
 
-  </div>
+    <div class="vspace1" />
 
-  <div class="col-sm-4">
-    {% include redesign/sponsors.html %}
+    <h5> Travel Schedule </h5>
 
-    <div class="vspace2"></div>
+    <div class="vspace1" />
+    <small>
+      Pictured: IMsBB 2018 Teagan alongside IMsL 2018 girl ang. photo by shilo mccabe.
+    </small>
 
-    <!-- <h3>Tickets</h3>
-    <div class="vspace1"></div>
-
-    <a href="https://www.cognitoforms.com/SFBayAreaLeatherAlliance1/_2018SFBayAreaLeatherAllianceWeekend" class="btn btn-lg btn-primary">
-        Buy Now!
-    </a>
-
-    <div class="vspace2"></div>
-
-    <h3>Want to get involved?</h3>
-    <div class="vspace1"></div>
-
-    <a href="/contact" class="btn btn-lg btn-success">
-        Contact Us!
-    </a>
-
-    <div class="vspace2"></div> -->
-
-    {% include redesign/links.html offset=1 %}
-
-    <div class="vspace2"></div>
 
   </div>
 </div>

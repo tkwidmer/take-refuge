@@ -1,23 +1,21 @@
 exclude: ['vendor']
-include: ['_pages', '_pages/film', '_pages/writing', 'pages/photography']
+include: ['_pages']
 
-title:            San Francisco Bootblack
-email:            producer@sanfranciscobootblack.com
-url:              http://www.sanfranciscobootblack.com
+title:            TakeRefuge
+email:            imsbb2018@imslbb.org
+url:              http://www.take-refuge.com
 paginate:         5
 paginate_path:    archive/page:num/
 author:
-  name:           San Francisco Bootblack Producers
-  url:            http://www.sanfranciscobootblack.com
-  email:          producer@sanfranciscobootblack.com
-  twitter:        https://twitter.com/twidx
+  name:           Bootblack Teagan
+  twitter:        https://twitter.com/imsbb2018
 
 # Site settings
 description: > # this means to ignore newlines until "baseurl:"
-  The San Francisco Bootblack contest will be held as part of the Leather Alliance Weekend 2018
-  along side the Mr San Francisco Leather Contest.
+  Teagan is IMsBB 2018. During her title year she encourage people to "Take Refuge"
+  at the bootblack stand.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.sanfranciscobootblack.com" # the base hostname & protocol for your site
+url: "http://www.take-refuge.com" # the base hostname & protocol for your site
 # twitter_username: twidx
 # github_username:  tkwidmer
 

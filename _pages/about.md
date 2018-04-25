@@ -5,65 +5,22 @@ permalink: '/about/'
 hide_title: true
 ---
 
-<div class="row">
-  <div class="col-sm-8">
-    <h2> About the Contest </h2>
+## Bios
 
-    <p>
-    The SFBB title is the first bootblack title to represent the Northern California region since
-    the Northern California Community Bootblack title shut down after Scout was it's last
-    titleholder in 2013.
-    </p>
+#### 220 Words
 
-    <p>
-    The SFBB Contest is designed to blend some of the components of both the IMBB title
-    and the IMsBB title, in order to help prepare contestants should they choose to compete
-    for further titles.
-    </p>
+Teagan fell in love with bootblacking at a young age, doing her shoes before church. Although these days her skills are being put to more salacious uses, she still identifies as a spiritual bootblack. For her, the act of bootblacking harkens back to the foot-washing ritual. She is honored to provide a humble service to her community. As a bootblack, Teagan loves the exchange of energy and the intimate connection that the stand creates. She views herself as a healer, seeking to clean both the leather and it's owner during their time in her stand. Teagan firmly believes that the bootblack stand is a sanctuary for those in need. Wether she's working a stand, or sitting for other bootblacks - that's the feeling she chases.
 
-    <h2> History </h2>
-    <p>
-      The San Francisco Bootblack contest was started by the SF Bay Area Leather Alliance
-      to contribute to the growth of the Leather Alliance Weekend. Local bay area bootblack
-      and Southwest Bootblack 2017 Teagan petitioned the board to add the title with a
-      proposal during a board meeting in June of 2017. The board unanimously moved to
-      add a bootblack contest.
-    </p>
+Teagan is an individual director for the Bay Area Leather Alliance Board. Over the past three years she's been the stage manager for the Mr San Francisco Leather contest. In 2018, in conjunction with the Leather Alliance she produced the first ever San Francisco Bootblack contest.
 
-    <h2> Eligibility </h2>
-    <p>
-    The San Francisco Bootblack title is open to individuals of <b>without regard to gender</b> who
-    identify as bootblacks and who live or work within the greater San Francisco Bay Area. The region is
-    defined as the following counties.
-    </p>
+Teagan is International Ms Bootblack 2018, and the 20th person to hold that title. She is also Southwest Bootblack 2017 and Southern California Bootblack 2016. She is based in Oakland, CA. During her title years she has invited our community to "Take Refuge" in the capable hands of our bootblacks.
 
-    <ul>
-      <li> San Francisco </li>
-      <li> Alameda </li>
-      <li> San Mateo </li>
-      <li> Santa Clara </li>
-      <li> Contra Costa </li>
-      <li> Marin </li>
-      <li> Sonoma </li>
-      <li> Santa Cruz</li>
-      <li> Napa </li>
-      <li> Solano </li>
-    </ul>
+#### 150 Words
 
-    <h2> Getting Involved </h2>
-    <a href="/contact" class="btn btn-primary">
-        Contact Us!
-    </a>
+Teagan fell in love with bootblacking at a young age, doing her shoes before church. Although these days her skills are being put to more salacious uses, she still identifies as a spiritual bootblack. For her, the act of bootblacking harkens back to the foot-washing ritual. She is honored to provide a humble service to her community.. She views herself as a healer, seeking to clean both the leather and it's owner during their time in her stand.  
 
-    <p class="vspace3">
-      <small>
-      *In rare cases we may accept petitions to run from outside of the region, from counties which border
-      the defined region.
-      </small>
-    </p>
-  </div>
+Teagan is International Ms Bootblack 2018, and the 20th person to hold that title. She is also Southwest Bootblack 2017 and Southern California Bootblack 2016. She is based in Oakland, CA. During her title years she has invited our community to "Take Refuge" in the capable hands of our bootblacks. Teagan is an individual director for the Bay Area Leather Alliance Board. She's the executive producer of the San Francisco Bootblack Contest.
 
-  <div class="col-sm-4">
-    <img src="/images/logos/logo_no_date.png" style="height: 300px; display: inline-block" />
-  </div>
-</div>
+#### 100 Words
+
+Teagan fell in love with bootblacking at a young age, doing her shoes before church. Although these days her skills are being put to more salacious uses, she still identifies as a spiritual bootblack. For her, bootblacking harkens back to the foot-washing ritual. Teagan is International Ms Bootblack 2018, and the 20th person to hold that title. She is based in Oakland, CA. During her title year she invited our community to "Take Refuge" in the capable hands of our bootblacks. She's the executive producer of the San Francisco Bootblack Contest.

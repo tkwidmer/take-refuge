@@ -1,11 +1,11 @@
 ---
 layout: new_page
-title: About The Contest
-permalink: '/about/'
+title: Press Kit
+permalink: '/press/'
 hide_title: true
 ---
 
-## Bios
+<h1 class="text-center"> Bios </h1>
 
 #### 220 Words
 
@@ -25,6 +25,8 @@ Teagan is International Ms Bootblack 2018, and the 20th person to hold that titl
 
 Teagan fell in love with bootblacking at a young age, doing her shoes before church. Although these days her skills are being put to more salacious uses, she still identifies as a spiritual bootblack. For her, bootblacking harkens back to the foot-washing ritual. Teagan is International Ms Bootblack 2018, and the 20th person to hold that title. She is based in Oakland, CA. During her title year she invited our community to "Take Refuge" in the capable hands of our bootblacks. She's the executive producer of the San Francisco Bootblack Contest.
 
+#### Headshots
 
 <a href="/images/headshot1.jpg"> Smiling Headshot (HighRez) </a>
-<a href="/images/headshot1.jpg"> Serious Headshot (HighRez) </a>
+
+<a href="/images/headshot2.jpg"> Serious Headshot (HighRez) </a>

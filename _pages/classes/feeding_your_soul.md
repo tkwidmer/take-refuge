@@ -4,7 +4,7 @@ title: "Feeding Your Sole: Basic LeatherCare for the Average LeatherPerson"
 permalink: '/classes/feeding_your_soul/'
 ---
 
-## Feeding Your Sole: Basic Leathercare for the Average Leatherperson.
+#### Feeding Your Sole: Basic Leathercare for the Average Leatherperson.
 <a href="/pdf/FeedingYourSoleHandout.pdf">handout link </a>
 
 #### Description

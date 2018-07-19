@@ -1,5 +1,18 @@
 <div class="pagination">
   <div class="btn-group" role="group" aria-label="Basic example">
+    <ul class="pager">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="btn btn-primary"> Previous </a>
+      {% endif %}
+
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" > Next </a>
+      {% endif %}
+    </div>
+
+      <li><a href="#">Previous</a></li>
+      <li><a href="#">Next</a></li>
+    </ul>
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="btn btn-primary"><<</a>
     {% endif %}
